@@ -3,7 +3,7 @@
   "displayName": "Chat To Markdown",
   "description": "Generate a Markdown document from a json saved Copilot chat ",
   "version": "0.0.3",
-  "publisher": "Iwan van Ee",
+  "publisher": "icvanee",
   "icon": "chat-to-markdown.jpg",
   "repository": {
     "type": "git",
