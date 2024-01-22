@@ -4,6 +4,8 @@ This Visual Studio Code extension converts a chat session exported from the GitH
 
 This whole project has been created using the help of Github Copilot.
 
+![Chat To MArkdown Demo](./chat-to-markdown.gif)
+
 ## Features
 
 1. **Active Window Reading**: The extension reads JSON data from the active window in Visual Studio Code. The JSON data should be an export from a chat session with the GitHub Copilot extension.
