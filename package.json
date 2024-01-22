@@ -2,7 +2,13 @@
   "name": "chat-to-markdown",
   "displayName": "Chat To Markdown",
   "description": "Generate a Markdown document from a json saved Copilot chat ",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "publisher": "Iwan van Ee",
+  "icon": "chat-to-markdown.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaneeic/chat-to-markdown"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
